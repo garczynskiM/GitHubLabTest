@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj",
       "projectName": "KataStringCalculator",
-      "projectPath": "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj",
+      "projectPath": "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj",
       "packagesPath": "C:\\Users\\megas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculator\\obj\\",
+      "outputPath": "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\megas\\AppData\\Roaming\\NuGet\\NuGet.Config",

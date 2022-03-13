@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculatorTest\\KataStringCalculatorTest.csproj": {}
+    "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculatorTest\\KataStringCalculatorTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculatorTest\\KataStringCalculatorTest.csproj": {
+    "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculatorTest\\KataStringCalculatorTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculatorTest\\KataStringCalculatorTest.csproj",
+        "projectUniqueName": "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculatorTest\\KataStringCalculatorTest.csproj",
         "projectName": "KataStringCalculatorTest",
-        "projectPath": "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculatorTest\\KataStringCalculatorTest.csproj",
+        "projectPath": "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculatorTest\\KataStringCalculatorTest.csproj",
         "packagesPath": "C:\\Users\\megas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculatorTest\\obj\\",
+        "outputPath": "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculatorTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\megas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj": {
-                "projectPath": "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj"
+              "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj": {
+                "projectPath": "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj"
               }
             }
           }
@@ -57,14 +57,14 @@
         }
       }
     },
-    "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj": {
+    "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj",
         "projectName": "KataStringCalculator",
-        "projectPath": "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj",
+        "projectPath": "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculator\\KataStringCalculator.csproj",
         "packagesPath": "C:\\Users\\megas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\megas\\Documents\\GitHub\\IOtest\\KataStringCalculator\\KataStringCalculator\\obj\\",
+        "outputPath": "C:\\Users\\megas\\Documents\\GitHub\\GitHubLabTest\\KataStringCalculator\\KataStringCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\megas\\AppData\\Roaming\\NuGet\\NuGet.Config",
