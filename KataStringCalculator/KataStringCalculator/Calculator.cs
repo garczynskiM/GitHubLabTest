@@ -1,4 +1,7 @@
-﻿namespace KataStringCalculator
+﻿using System;
+using System.Collections.Generic;
+
+namespace KataStringCalculator
 {
     public class Calculator
     {
